@@ -1,2 +1,2 @@
 # test_app
-trying out supoervisely app
+trying out supervisely app
