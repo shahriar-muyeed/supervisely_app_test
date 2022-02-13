@@ -1,1 +1,0 @@
-# supervisely_app_test
